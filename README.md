@@ -1,3 +1,3 @@
 # boot009-fake-guggle
 
-Landing page formated as certain famous web search engine.
+Landing page formated like certain famous web search engine.
